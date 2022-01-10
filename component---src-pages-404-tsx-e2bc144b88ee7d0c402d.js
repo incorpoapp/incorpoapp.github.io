@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_ts=self.webpackChunkgatsby_starter_ts||[]).push([[218],{938:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=n(7294),a=n(5414);function l(){return r.createElement(r.Fragment,null,r.createElement(a.q,null,r.createElement("meta",{charSet:"utf-8"}),r.createElement("title",null,"igencorp | page not found"),r.createElement("link",{rel:"canonical",href:"https://igencorp.co"})),r.createElement("p",null,"Sorry, page not found!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-e2bc144b88ee7d0c402d.js.map
