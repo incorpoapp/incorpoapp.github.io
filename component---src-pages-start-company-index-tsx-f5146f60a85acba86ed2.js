@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[391],{4466:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var l=n(7294),a=n(5414),r=n(7363),c=n(1775);function u(){return l.createElement(r.Z,null,l.createElement(a.q,null,l.createElement("meta",{charSet:"utf-8"}),l.createElement("title",null,"igencorp | Start a Company"),l.createElement("link",{rel:"canonical",href:"https://igencorp.co/start-company"})),l.createElement(c.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-start-company-index-tsx-f5146f60a85acba86ed2.js.map
